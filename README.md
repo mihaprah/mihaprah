@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi, my name is Miha Prah and I am a passionate and motivated 3rd year computer science student from Slovenia. Currently, I am studying at FERI (Faculty of Electrical Engineering and Computer Science) in Maribor. I have a strong foundation in various programming languages including Java, JavaScript, TypeScript, Python, and Swift. These languages have allowed me to develop a diverse set of skills and tackle a wide range of projects. I am enthusiastic about learning and exploring new technologies, and I am always eager to take on new challenges. Through my studies and practical experience, I strive to become a well-rounded and proficient programmer, constantly seeking opportunities for growth and innovation.
+Hi, I’m Miha Prah 👋
+
+I’m a Master’s student in Business Informatics at TU Wien and a passionate full-stack developer from Slovenia. I specialize in building end-to-end applications using technologies like Java, JavaScript, TypeScript, Python, and Swift. With a strong foundation in both front-end and back-end development, I enjoy tackling complex challenges and constantly learning new tools and technologies.
+
+Check out my repositories for a glimpse into my work and projects!
 ---
 [![](https://visitcount.itsvg.in/api?id=mihaprah&icon=5&color=4)](https://visitcount.itsvg.in)
 
